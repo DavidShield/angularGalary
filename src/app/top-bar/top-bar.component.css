@@ -1,0 +1,24 @@
+img {
+    max-height: 100%;
+    max-width: 100%;
+    display: block;
+}
+
+#header {
+    margin-bottom: 40px;
+}
+
+#logo {
+    float: left;
+}
+
+.logo {
+    line-height: 0;
+    margin: 0;
+    display: inline-block;
+    height: 60px;
+}
+
+#topNav {
+    float: right;
+}
